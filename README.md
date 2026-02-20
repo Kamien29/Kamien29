@@ -26,8 +26,6 @@ I continuously improve my skills and enjoy learning new technologies.
 
 ## 🌐 Social Media & Contact
 
-📸 Instagram:  
-👉 https://www.instagram.com/m3ntalposer/
 
 📧 Email:  
 👉 wojmak2000@gmail.com

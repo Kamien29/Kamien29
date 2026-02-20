@@ -1,5 +1,4 @@
-# MOJE REPOZYTORIUM
-# 👋 Hi, I'm a Programmer!
+# 👋 Cement?
 
 I am a programmer focused on building web applications and working with C++.  
 I continuously improve my skills and enjoy learning new technologies.

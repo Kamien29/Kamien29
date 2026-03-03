@@ -1,11 +1,6 @@
 # 👋 Cement?
 
-I am a programmer focused on building web applications and working with C++.  
-I continuously improve my skills and enjoy learning new technologies.
 
----
-
-## 🛠️ Tech Stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -13,6 +8,7 @@ I continuously improve my skills and enjoy learning new technologies.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -23,13 +19,7 @@ I continuously improve my skills and enjoy learning new technologies.
 
 ---
 
-## 🌐 Social Media & Contact
 
-
-📧 Email:  
-👉 wojmak2000@gmail.com
-
----
 
 
 <p align="center">

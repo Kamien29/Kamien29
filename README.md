@@ -28,4 +28,3 @@
 
 ---
 
-⭐ If you like my work, feel free to star my repositories!

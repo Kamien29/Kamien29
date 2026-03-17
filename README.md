@@ -28,12 +28,7 @@
 
 ---
 
-## 🧑‍💻 O mnie
 
-- 🔥 Full‑stack dev in progress  
-- 🧠 Lubię backend, API i automatyzację  
-- 🤖 Bawię się AI (Cursor, Ollama)  
-- 🐳 Konteneryzacja z Dockerem  
 
 ## 📊 GitHub stats
 
@@ -42,6 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
-## 📫 Kontakt
+## 📫 Contact
 
 - ✉️ Email: wojmak2000@gmail.com  

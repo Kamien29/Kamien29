@@ -17,6 +17,10 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio 2022](https://img.shields.io/badge/VS_2022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white
+https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/Hercules-FF4F00?style=for-the-badge&logo=git&logoColor=white
 ---
 
 
